@@ -138,7 +138,7 @@ export default function Navbar() {
             );
           })}
           <a
-            href="https://github.com"
+            href="/CV.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="flex items-center space-x-1 px-4 py-2 text-[10px] font-mono text-zinc-400 hover:text-white border-2 border-zinc-800 hover:border-accent-neon rounded-none transition-all duration-300 ml-4 bg-zinc-950/20"
@@ -187,7 +187,7 @@ export default function Navbar() {
                 );
               })}
               <a
-                href="https://github.com"
+                href="/CV.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center justify-between px-3 py-2 text-xs font-mono text-zinc-400 hover:text-white bg-zinc-950/50 rounded-none border-2 border-zinc-800 transition-colors"

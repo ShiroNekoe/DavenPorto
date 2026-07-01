@@ -129,7 +129,7 @@ const projects: ProjectItem[] = [
     title: "Sumber Makmur Project",
     description:
       "A full-stack trading telemetry platform currently under development, featuring a FastAPI backend and a Vite React frontend. Closed source until launch.",
-    techStack: ["Laravel", "MySQL", "React", "Private API"],
+    techStack: ["Python", "Sqlite", "React", "Private API"],
     githubUrl: "https://github.com/ShiroNekoe/sumber_makmur_projek",
     isLocked: true,
     renderThumbnail: () => (
